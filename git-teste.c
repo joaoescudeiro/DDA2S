@@ -1,3 +1,6 @@
 #include <stdlib.h>
 
-123
+int main(){
+
+    
+}
