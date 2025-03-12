@@ -1,4 +1,7 @@
 #include <stdlib.h>
 
-asd
+main(){
 
+
+
+}
