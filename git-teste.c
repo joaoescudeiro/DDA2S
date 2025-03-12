@@ -1,7 +1,1 @@
 #include <stdlib.h>
-
-main(){
-
-
-
-}
